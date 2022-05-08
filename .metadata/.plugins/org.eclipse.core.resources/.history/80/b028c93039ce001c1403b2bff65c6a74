@@ -1,0 +1,21 @@
+package conta;
+
+public class ContaPoupanca {
+	private int agencia;
+	private int numero;
+	private float saldo;
+	
+	public void sacar() {
+		
+	}
+	
+	public void depositar() {
+		
+	}
+	
+	
+	public void transferir() {
+		
+	}
+
+}

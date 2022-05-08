@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\clown\OneDrive\Documentos\DigitalInnovationOne\Java\workspace-bank\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+633970006.index
+3075153905.index

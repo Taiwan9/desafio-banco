@@ -1,0 +1,6 @@
+package conta;
+
+public class Banco {
+	public String nome;
+
+}

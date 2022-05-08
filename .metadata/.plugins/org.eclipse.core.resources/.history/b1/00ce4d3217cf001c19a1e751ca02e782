@@ -1,0 +1,22 @@
+package main;
+
+import conta.Conta;
+import conta.ContaCorrente;
+import conta.ContaPoupanca;
+
+public class Application {
+
+	public static void main(String[] args) {
+		
+		Conta cc = new ContaCorrente();
+		cc.depositar(100);
+		
+		Conta cp = new ContaPoupanca();
+		cc.transferir(50, cp);
+		
+		cc.imprimirExtrato();
+		cp.imprimirExtrato();
+
+	}
+
+}

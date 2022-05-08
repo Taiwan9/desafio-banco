@@ -1,0 +1,14 @@
+package main;
+
+import conta.ContaCorrente;
+import conta.ContaPoupanca;
+
+public class Application {
+
+	public static void main(String[] args) {
+		Conta cc = new ContaCorrente();
+		Conta cp = new ContaPoupanca();
+
+	}
+
+}
